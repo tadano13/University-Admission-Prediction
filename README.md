@@ -1,10 +1,8 @@
 # University Admission Prediction
 
-![License](https://img.shields.io/github/license/tadano13/university-admission-prediction) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
 Predict the likelihood of university admissions based on various academic and extracurricular factors. This machine learning project aims to assist students in assessing their chances of admission to universities by analyzing historical admission data.
-
-![University Admission Prediction](https://your-image-link-here.com/preview.png) <!-- You can add a preview image if available -->
 
 ## ✨ Features
 
