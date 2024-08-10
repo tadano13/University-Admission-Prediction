@@ -31,3 +31,10 @@ git clone https://github.com/tadano13/university-admission-prediction.git
 cd university-admission-prediction
 pip install -r requirements.txt
 ```
+
+### Usage
+To start making predictions, click on the following link:
+link:
+
+
+
