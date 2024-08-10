@@ -34,7 +34,29 @@ pip install -r requirements.txt
 
 ### Usage
 To start making predictions, click on the following link:
-link:
+
+## 📂 Project Structure
+```plaintext
+university-admission-prediction/
+│
+├── data/               # Dataset files
+├── models/             # Saved machine learning models
+├── notebooks/          # Jupyter notebooks for exploration
+├── scripts/            # Python scripts for training and prediction
+├── predict.py          # Main script for making predictions
+├── requirements.txt    # Dependencies list
+└── README.md           # Project documentation
+```
+## 🤝 Contributing
+Contributions are welcome! If you'd like to improve the project or add new features, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (git checkout -b feature-branch)
+3. Make your changes and commit (git commit -m 'Add some feature')
+4. Push to the branch (git push origin feature-branch)
+5. Open a Pull Request
+
+
 
 
 
