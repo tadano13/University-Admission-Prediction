@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-To start making predictions, click on the following link:
+To start making predictions, click on the following link: https://university-admission-prediction-erlqwt84trw3kkdcdzrtbs.streamlit.app/
 
 ## 📂 Project Structure
 ```plaintext
