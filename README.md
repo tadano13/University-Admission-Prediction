@@ -56,7 +56,27 @@ Contributions are welcome! If you'd like to improve the project or add new featu
 4. Push to the branch (git push origin feature-branch)
 5. Open a Pull Request
 
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 🛠️ Built With
+- Python 3.8+
+- Scikit-learn
+- Pandas
+- NumPy
+- Streamlit
 
+## 📧 Contact
+Feel free to reach out if you have any questions or feedback:
 
+- GitHub: tadano13
+- Email: nishantsawaimoon282@gmail.com
 
+### Key Enhancements
+
+- **Visual Elements**: Adding badges and a preview image makes the README visually appealing.
+- **Features Section**: Highlights what makes your project special.
+- **Project Structure**: Helps users navigate your project more easily.
+- **Contribution Guidelines**: Encourages community involvement.
+
+You can further personalize this based on your project's needs. Let me know if you'd like to refine any specific section!
