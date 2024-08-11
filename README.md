@@ -18,7 +18,7 @@ Predict the likelihood of university admissions based on various academic and ex
 Make sure you have the following installed:
 
 - Python 3.8+
-- pip (Python package installer)
+- Anaconda
 
 ### Installation
 
