@@ -37,10 +37,10 @@ To start making predictions, click on the following link: https://university-adm
 ```plaintext
 university-admission-prediction/
 │
-├── data/               # Dataset files
-├── models/             # Saved machine learning models
-├── notebooks/          # Jupyter notebooks for exploration
-├── scripts/            # Python scripts for training and prediction
+├── data                # Dataset files
+├── models              # Saved machine learning models
+├── notebooks           # Jupyter notebooks for exploration
+├── scripts             # Python scripts for training and prediction
 ├── predict.py          # Main script for making predictions
 ├── requirements.txt    # Dependencies list
 └── README.md           # Project documentation
